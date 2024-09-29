@@ -26,5 +26,5 @@ The project uses the following libraries:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stock-price-prediction.git
+   git clone https://github.com/Hamza-Rafique/Stock-Price-Prediction.git
 ```
